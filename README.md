@@ -1,1 +1,1 @@
-All the codes that I've been taught and practiced
+All the codes that I've been learned
